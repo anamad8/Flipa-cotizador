@@ -4,9 +4,9 @@ import s from './ApplicantDetails.module.css';
 function ApplicantDetails() {
   return (
     <>
-        <table class="default">
+        <table>
             <tr>
-                <th colspan="4">DATOS DEL SOLICITANTE</th>
+                <th colspan="4" className={s.data}>DATOS DEL SOLICITANTE</th>
             </tr>
         <tr>
             <th>Vencimiento</th>
