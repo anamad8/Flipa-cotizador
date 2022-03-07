@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    background: linear-gradient(90deg, rgba(245,78,162,1) 0%, rgba(255,118,118,1) 100%);
+    color: #ffffff;
+
+}
+
+.header h1{
+    margin-left: 100px;
+    padding-top: 10px;
+}

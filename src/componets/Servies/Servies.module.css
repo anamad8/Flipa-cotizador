@@ -1,0 +1,47 @@
+.servicios{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+
+.tabla2{
+    border: 1px solid black;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.area{
+    border: 1px solid black;
+    
+}
+.servicio{
+    border: 1px solid black;
+    width: 100px;
+    
+}
+.detalle{
+    border: 1px solid black;
+    
+}
+.objetivo{
+    border: 1px solid black;
+    
+}
+.formato{
+    border: 1px solid black;
+    width: 100px;
+    
+}
+.revisiones{
+    border: 1px solid black;
+    
+}
+.plazo{
+    border: 1px solid black;
+
+}
+.monto{
+    border: 1px solid black;
+
+}
